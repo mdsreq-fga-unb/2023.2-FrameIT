@@ -1,15 +1,14 @@
 # Visão Geral do Projeto
 
 # Organização do Projeto
-<span style="color:blue">
-[apresentada a divisão de atribuições e responsabilidades entre os membros do projeto, sem qualquer relação
-de hierarquia ou grau de importância. Todos os integrantes são igualmente importantes e responsáveis pelo su-
-cesso do projeto.]
 
-| Papel | Atribuições | Responsável | Participantes |
-|-------|-------------|-------------|---------------|
-|       |             |             |               |
-</span>
+| Papel              | Atribuições | Responsável                    | Participantes |
+|--------------------|-------------|--------------------------------|---------------|
+|   Dev Master       |             |Liander Medeiros Alves          |               |
+|   Dev CI/Tester    |             |Marcelo Adrian Ribeiro de Araujo|               |
+|   Dev Front-end    |             |Victor Hugo da Cunha Santos     |               |
+|   Dev Back-end     |             |Artur de Camargos Rodrigues     |               |
+|   Dev CI/Tester    |             |Marco Marques de Castro         |               |
 
 # Planejamento
 [Registrar o projeto, as fases de seu ciclo de vida e suas iterações, especificando suas datas de início e de fim,
