@@ -30,5 +30,3 @@ Para equipes ágeis que não possuem orçamento para licenciar ferramentas pagas
 </span>
 
 # Backlog do Produto
-<span style="color:blue">
-</span>
