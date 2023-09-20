@@ -1,0 +1,34 @@
+[book]
+authors = [
+            "Liander Medeiros Alves",
+            "Victor Hugo da Cunha Santos",
+            "Marco Marques de Castro",
+            "Marcelo Adrian Ribeiro de Araujo"
+        ]
+language = "pt-br"
+multilingual = false
+src = "src"
+title = "FrameIT"
+
+[build]
+build-dir = "docs"
+create-missing = true
+
+[output.html]
+#theme = ""
+default-theme = "light"
+preferred-dark-theme = "ayu"
+curly-quotes = true
+mathjax-support = false
+#additional-css = ["custom.css"]
+#additional-js = ["custom.js"]
+no-section-label = true
+git-repository-url = "https://github.com/mdsreq-fga-unb/2023.2-FrameIT/"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/mdsreq-fga-unb/2023.2-FrameIT/edit/docs/{path}"
+#site-url = "/"
+#cname = "frameit.com.br"
+#input-404 = "not-found.md"
+
+[output.html.fold]
+enable = true
