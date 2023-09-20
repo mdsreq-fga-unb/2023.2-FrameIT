@@ -6,14 +6,12 @@ ser refinado e atualizado ao longo do ciclo de vida de desenvolvimento do produt
 # Visão Geral do Produto
 # Oportunidade Identificada
 <span style="color:blue">
-[Registre aqui, o problema / oportunidade identificado, o qual deverá ser dado conta pela solução de software, registrada no item seguinte. Apresente, também, o diagrama de espinha de peixe ou outra técnica utilizada para identificar o problema e suas causas.]
+Equipes ágeis que possuem orçamento restrito muitas vezes precisam fazer uso da versão gratuita de várias ferramentas distintas para suprir suas necessidades de gestão de projeto. Isso resulta na dispersão de informações do projeto em várias plataformas, que pode ser prejudicial à organização do projeto.
 </span>
 
 # Declaração de Posição
 <span style="color:blue">
-[Forneça uma declaração geral resumindo, no nível mais alto, a posição exclusiva que o produto pre-
-tende preencher no mercado. Uma declaração de posição do produto comunica a intenção da aplicação
-e a importância do projeto para todo o pessoal envolvido. O seguinte formato pode ser usado:]
+Para equipes ágeis que não possuem orçamento para licenciar ferramentas pagas de gestão de projeto, o FrameIT é uma plataforma financeiramente acessível para gestão de projetos ágeis. Ao contrário de soluções comerciais que possuem uma versão gratuita limitada, nosso produto disponibiliza funcionalidades essenciais de maneira mais completa, que permitem concentrar a gestão de projetos ágeis em um só lugar.
 
 1. Qual é o produto que você se propõe a desenvolver?
 2. O que torna este produto diferente dos seus concorrentes?
@@ -22,11 +20,11 @@ e a importância do projeto para todo o pessoal envolvido. O seguinte formato po
 
 | Para                     | [cliente alvo]                                           |
 |--------------------------|----------------------------------------------------------|
-| Quem                     | [declaração da necessidade ou oportunidade]               |
+| Quem                     | Equipes ágeis de baixo orçamento.              |
 | O (nome do produto) é uma| [categoria de produto]                                    |
-| Que                      | [declaração do principal benefício; ... para comprar, etc.] |
-| Ao contrário             | [alternativa competitiva primária]                        |
-| Nosso produto            | [declaração de diferenciação primária]                    |
+| Que                      | Ofereçe as principais funcionalidades que são pagas. |
+| Ao contrário             | Jira, Trello, Azure Boards, IBM Jazz.                        |
+| Nosso produto            | É gratuito e completo.                    |
 </span>
 
 # Objetivos
