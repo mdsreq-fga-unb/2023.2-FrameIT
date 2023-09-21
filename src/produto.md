@@ -15,13 +15,14 @@ Os usuários-alvo do produto são estudantes universitários que desejam gerenci
 * **Por que os clientes deveriam utilizar / comprar este produto?**
 Os clientes devem utilizar o "FrameIT" porque ele oferece uma solução abrangente e eficaz para o gerenciamento de projetos acadêmicos, promovendo a aprendizagem, a colaboração e o sucesso dos estudantes de forma gratuita e com assistência guiada.
 
-| Para                     | [cliente alvo]                                           |
+| Pergunta                     | Resposta                                           |
 |--------------------------|----------------------------------------------------------|
-| Quem                     | Equipes ágeis de baixo orçamento.              |
-| O (nome do produto) é uma| [categoria de produto]                                    |
-| Que                      | Ofereçe as principais funcionalidades que são pagas. |
-| Ao contrário             | Jira, Trello, Azure Boards, IBM Jazz.                        |
-| Nosso produto            | É gratuito e completo.                    |
+| Para ? | Estudantes iniciantes em metodologias ágeis
+| Quem  ?                   | Equipes ágeis de baixo orçamento.              |
+| O nome do produto ?| FrameIT                                   |
+| Que   ?                   | Ofereçe as principais funcionalidades que são pagas. |
+| Ao contrário   ?          | Jira, Trello, Azure Boards, IBM Jazz.                        |
+| Nosso produto     ?      | É gratuito e completo.                    |
 
 ### 1.3 Objetivos
 
