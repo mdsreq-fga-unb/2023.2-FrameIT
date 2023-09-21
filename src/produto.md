@@ -15,14 +15,13 @@ Os usuários-alvo do produto são estudantes universitários que desejam gerenci
 * **Por que os clientes deveriam utilizar / comprar este produto?**
 Os clientes devem utilizar o "FrameIT" porque ele oferece uma solução abrangente e eficaz para o gerenciamento de projetos acadêmicos, promovendo a aprendizagem, a colaboração e o sucesso dos estudantes de forma gratuita e com assistência guiada.
 
-| Pergunta                     | Resposta                                           |
-|--------------------------|----------------------------------------------------------|
-| Para ? | Estudantes iniciantes em metodologias ágeis
-| Quem  ?                   | Equipes ágeis de baixo orçamento.              |
-| O nome do produto ?| FrameIT                                   |
-| Que   ?                   | Ofereçe as principais funcionalidades que são pagas. |
-| Ao contrário   ?          | Jira, Trello, Azure Boards, IBM Jazz.                        |
-| Nosso produto     ?      | É gratuito e completo.                    |
+| Para                    | Estudantes iniciantes em metodologias ágeis                                          |
+|-------------------------|----------------------------------------------------------|
+| Quem                     | Equipes ágeis de baixo orçamento.              |
+| O nome do produto | FrameIT                                   |
+| Que                      | Ofereçe as principais funcionalidades que são pagas. |
+| Ao contrário             | Jira, Trello, Azure Boards, IBM Jazz.                        |
+| Nosso produto           | É gratuito e completo.                    |
 
 ### 1.3 Objetivos
 
@@ -31,9 +30,9 @@ O objetivo geral do "FrameIT" é oferecer uma ferramenta de organização eficaz
 
 #### Objetivos Específicos
 * **Assistência Guiada:** Proporcionar assistência guiada e modelos predefinidos para facilitar a criação de projetos acadêmicos.
-* **Integração de Metodologias Ágeis:** Integrar conceitos ágeis, como Kanban, no ambiente acadêmico.
+* **Integração de Metodologias Ágeis:** Integrar conceitos ágeis, como Scrum, no ambiente acadêmico.
 * **Colaboração:** Facilitar a colaboração entre alunos, permitindo feedback em projetos acadêmicos.
-* **Gestão de Tempo:** Oferecer um calendário acadêmico para auxiliar na gestão do tempo de estudo.
+* **Gestão de Tempo:** Oferecer um calendário acadêmico para auxiliar na gestão do tempo de estudo e execução do projeto.
 * **Personalização:** Permitir a personalização da interface por meio de temas e estilos visuais. 
 
 ### 1.4 Tecnologias Utilizadas
@@ -53,5 +52,3 @@ O FrameIT permite que os usuários personalizem a aparência da interface de aco
  A funcionalidade de feedback e revisão de pares promove a colaboração entre os alunos, incentivando-os a aprender uns com os outros e a melhorar suas habilidades acadêmicas.
 * **Organização Eficiente:**
 Com recursos como a barra de pesquisa universal, o FrameIT ajuda os estudantes a manterem-se organizados em um ambiente acadêmico desafiador.
-* **Personalização:**
-A capacidade de personalizar temas e estilos visuais torna a ferramenta atraente para uma ampla gama de usuários, adaptando-se às preferências individuais.
