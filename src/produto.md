@@ -24,16 +24,18 @@ Diante do contexto apresentado, foi identificada a oportunidade de preencher as 
 ![Diagrama de Ishikawa](https://raw.githubusercontent.com/mdsreq-fga-unb/2023.2-FrameIT/docs/img/ishikawa.png "Diagrama de Ishikawa para a Oportunidade").
 
 ### 1.2 Declaração de Posição
-Para estudantes que desejam aprender metodologias ágeis que não possuem orçamento para licenciar ferramentas pagas de gestão de projeto, o FrameIT é uma plataforma financeiramente acessível para gestão de projetos ágeis. Ao contrário de soluções comerciais que possuem uma versão gratuita limitada, nosso produto disponibiliza funcionalidades essenciais de maneira mais completa, que permitem concentrar a gestão de projetos ágeis em um só lugar.
+Para estudantes que desejam utilizar metodologias ágeis e que não possuem orçamento para licenciar ferramentas pagas de gestão de projeto, o FrameIT é uma plataforma acessível para gestão de projetos ágeis. Ao contrário de soluções comerciais que possuem uma versão gratuita limitada, nosso produto disponibiliza funcionalidades essenciais de maneira mais completa e voltada para equipes que estão em processo de aprendizado, que permitem concentrar a gestão de projetos ágeis em um só lugar.
 
 * **Qual é o produto que você se propõe a desenvolver?**
-Uma aplicação de software projetada para auxiliar estudantes na gestão de projetos acadêmicos.
+Uma aplicação projetada para auxiliar estudantes na gestão de projetos ágeis no âmbito acadêmico.
 * **O que torna este produto diferente dos seus concorrentes?**
-O diferencial do nosso produto está na assistência guiada, na adaptação de metodologias ágeis para o ambiente acadêmico, modelos predefinidos, barra de pesquisa universal, amostragem de métricas e personalização, oferecendo uma experiência única aos usuários.
+O diferencial do nosso produto está em funcionalidades educativas tais como assistência guiada, modelos pré-definidos, métricas detalhadas e personalização, oferecendo uma experiência única aos usuários.
+
 * **Quem são os usuários-alvo e clientes do produto?**
-Os usuários-alvo do produto são estudantes universitários que desejam gerenciar projetos acadêmicos de forma mais eficaz, especialmente aqueles que estão iniciando com metodologias ágeis. Os clientes podem incluir instituições de ensino superior que desejam fornecer uma ferramenta de organização e aprendizado aos seus alunos, bem como estudantes individuais que buscam uma solução para suas necessidades acadêmicas.
+Os usuários-alvo do produto são estudantes universitários que desejam gerenciar projetos acadêmicos utilizando metodologias àgeis, especialmente os que estão no processo de aprendizado. Os clientes podem incluir instituições de ensino superior que desejam fornecer uma ferramenta de organização e aprendizado aos seus alunos, bem como equipes individuais que buscam uma solução para suas necessidades acadêmicas.
+
 * **Por que os clientes deveriam utilizar / comprar este produto?**
-Os clientes devem utilizar o "FrameIT" porque ele oferece uma solução abrangente e eficaz para o gerenciamento de projetos acadêmicos, promovendo a aprendizagem, a colaboração e o sucesso dos estudantes de forma gratuita e com assistência guiada.
+Os clientes devem utilizar o "FrameIT" porque ele oferece uma solução abrangente, com assitência guiada, eficaz e gratuita para o gerenciamento de projetos ágeis no contexto acadêmico, promovendo a aprendizagem, a colaboração e o sucesso dos estudantes.
 
 | Pergunta                     | Resposta                                           |
 |--------------------------|----------------------------------------------------------|
@@ -41,37 +43,21 @@ Os clientes devem utilizar o "FrameIT" porque ele oferece uma solução abrangen
 | Quem  ?                   | Equipes ágeis de baixo orçamento.              |
 | O nome do produto ?| FrameIT                                   |
 | Que   ?                   | Ofereçe as principais funcionalidades que são pagas. |
-| Ao contrário   ?          | Jira, Trello, Azure Boards, IBM Jazz.                        |
+| Ao contrário   ?          | Jira, Trello, Azure Boards, IBM Jazz e similares                      |
 | Nosso produto     ?      | É gratuito e completo.                    |
 
 ### 1.3 Objetivos
 
 #### Objetivo Geral
-O objetivo geral do "FrameIT" é oferecer uma ferramenta de organização eficaz e acessível para estudantes universitários, focada no gerenciamento de projetos acadêmicos, promoção da aprendizagem colaborativa e integração de metodologias ágeis.
+O objetivo geral do "FrameIT" é oferecer uma ferramenta de gerenciamento de projetos ágeis acessível para estudantes universitários, focada na organização de projetos acadêmicos e na promoção da aprendizagem colaborativa.
 
 #### Objetivos Específicos
-* **Assistência Guiada:** Proporcionar assistência guiada e modelos predefinidos para facilitar a criação de projetos acadêmicos.
-* **Integração de Metodologias Ágeis:** Integrar conceitos ágeis, como Kanban, no ambiente acadêmico.
-* **Colaboração:** Facilitar a colaboração entre alunos, permitindo feedback em projetos acadêmicos.
-* **Gestão de Tempo:** Oferecer um calendário acadêmico para auxiliar na gestão do tempo de estudo.
-* **Personalização:** Permitir a personalização da interface por meio de temas e estilos visuais. 
+* **Assistência Guiada:** Proporcionar assistência guiada e modelos predefinidos para facilitar a criação de projetos.
+* **Integração de Metodologias Ágeis:** Integrar conceitos ágeis, com foco em SCRUM e XP, no contexto dos projetos acadêmicos.
+* **Colaboração:** Facilitar a colaboração entre alunos e professor, permitindo feedback  do trabalho realizado.
+* **Gestão de Tempo:** Oferecer integração com o calendário acadêmico para auxiliar na gestão do tempo.
+* **Personalização:** Permitir a personalização da interface por meio de temas e estilos visuais.
 
 ### 1.4 Tecnologias Utilizadas
-**Plataforma:** Aplicação Web  **Linguagens de Programação:** Python, Javascript/VueJs
-
-### 1.5 Backlog do Produto
-
-* **Assistência Guiada para Projetos:**
-O FrameIT coloca a criação de projetos acadêmicos sob uma perspectiva totalmente nova, oferecendo assistência passo a passo e modelos informativos. Isso garante que os usuários tenham uma experiência educacional enriquecedora desde o início.
-* **Barra de Pesquisa Universal:**
-Uma barra de pesquisa eficaz é incorporada ao sistema para permitir que os usuários pesquisem tarefas, projetos, notas e recursos em toda a plataforma de maneira rápida e eficiente. Isso economiza tempo e facilita a localização de informações essenciais.
-* **Calendário Acadêmico:**
-O FrameIT integra um calendário acadêmico que exibe datas importantes, como prazos de inscrição, início e término de semestres, feriados acadêmicos e datas de provas. Isso ajuda os alunos a planejar e gerenciar seu tempo de estudo de maneira eficaz.
-* **Personalização de Temas:**
-O FrameIT permite que os usuários personalizem a aparência da interface de acordo com suas preferências, oferecendo opções de temas e estilos visuais, incluindo temas escuros e claros. Isso torna a experiência de uso mais agradável e adaptada às necessidades individuais.
-* **Colaboração Aprimorada:**
- A funcionalidade de feedback e revisão de pares promove a colaboração entre os alunos, incentivando-os a aprender uns com os outros e a melhorar suas habilidades acadêmicas.
-* **Organização Eficiente:**
-Com recursos como a barra de pesquisa universal, o FrameIT ajuda os estudantes a manterem-se organizados em um ambiente acadêmico desafiador.
-* **Personalização:**
-A capacidade de personalizar temas e estilos visuais torna a ferramenta atraente para uma ampla gama de usuários, adaptando-se às preferências individuais.
+- **Plataforma:** Aplicação Web  
+- **Linguagens de Programação:** Python, Javascript/VueJs
