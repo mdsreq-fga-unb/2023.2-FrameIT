@@ -39,12 +39,12 @@ Os clientes devem utilizar o "FrameIT" porque ele oferece uma solução abrangen
 
 | Pergunta                     | Resposta                                           |
 |--------------------------|----------------------------------------------------------|
-| Para ? | Estudantes iniciantes em metodologias ágeis
-| Quem  ?                   | Equipes ágeis de baixo orçamento.              |
-| O nome do produto ?| FrameIT                                   |
-| Que   ?                   | Ofereçe as principais funcionalidades que são pagas. |
-| Ao contrário   ?          | Jira, Trello, Azure Boards, IBM Jazz e similares                      |
-| Nosso produto     ?      | É gratuito e completo.                    |
+| Para  | Equipes ágeis compostas por estudantes |
+| Quem                    | Necessita de uma ferramenta de gestão de projetos ágeis gratuita e completa|
+| O FrameIT | É uma ferramenta                                 |
+| Que                  | Oferece funcionalidades de gestão de um projeto ágil essenciais e voltada para estudantes |
+| Ao contrário de          | Jira, Trello, Azure Boards, IBM Jazz, Asana, Monday.com, ClickUp e afins                      |
+| Nosso produto       | É financeiramente acessível e disponibiliza em uma mesma ferramenta funcionalidades que não são oferecidas ou estão dispersas entre as versões gratuitas das ferramentas citadas, tais como: quadro kanban, assistência guiada, métricas detalhadas, permissões de usuário, timeline e afins|
 
 ### 1.3 Objetivos
 
