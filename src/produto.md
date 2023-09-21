@@ -37,11 +37,7 @@ O objetivo geral do "FrameIT" é oferecer uma ferramenta de organização eficaz
 * **Personalização:** Permitir a personalização da interface por meio de temas e estilos visuais. 
 
 ### 1.4 Tecnologias Utilizadas
-| Plataforma | Linguagens de Programação | Banco de Dados |
-|:----------:|:-------------------------:|:--------------:|
-|Web         |Python/Django              |MySQL           |
-|            |Javascript/VueJS           |                |
-
+**Plataforma:** Aplicação Web  **Linguagens de Programação:** Python, Javascript/VueJs
 
 ### 1.5 Backlog do Produto
 
