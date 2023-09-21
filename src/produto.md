@@ -21,7 +21,7 @@ Dentro do contexto apresentado, foram analisadas as versões gratuitas das ferra
 ### 1.1 Oportunidade Identificada
 Diante do contexto apresentado, foi identificada a oportunidade de preencher as lacunas existentes no que diz respeito às funcionalidades oferecidas pelas versões gratuitas dos produtos acima citados. Além disso, com o enfoque na público acadêmico, há a possibilidade de integrar um aspecto educativo ao produto.
 
-![Diagrama de Ishikawa](../img/ishikawa.png "Diagrama de Ishikawa para a Oportunidade").
+![Diagrama de Ishikawa](https://raw.githubusercontent.com/mdsreq-fga-unb/2023.2-FrameIT/docs/img/ishikawa.png "Diagrama de Ishikawa para a Oportunidade").
 
 ### 1.2 Declaração de Posição
 Para estudantes que desejam aprender metodologias ágeis que não possuem orçamento para licenciar ferramentas pagas de gestão de projeto, o FrameIT é uma plataforma financeiramente acessível para gestão de projetos ágeis. Ao contrário de soluções comerciais que possuem uma versão gratuita limitada, nosso produto disponibiliza funcionalidades essenciais de maneira mais completa, que permitem concentrar a gestão de projetos ágeis em um só lugar.
